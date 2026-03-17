@@ -1,4 +1,4 @@
-
+import { useState, useMemo } from 'react';
 import './App.css';
 
 // Grade points matching typical Indian grading system
